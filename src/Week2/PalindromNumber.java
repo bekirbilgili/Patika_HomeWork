@@ -1,4 +1,4 @@
-package PalindromNumber;
+package Week2;
 
 public class PalindromNumber {
 
