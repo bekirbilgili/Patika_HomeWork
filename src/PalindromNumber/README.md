@@ -1,0 +1,1 @@
+Girilen Satının palindrom sayı olup olmadığını döndürür.
