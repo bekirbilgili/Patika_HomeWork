@@ -1,5 +1,3 @@
-package Week2;
-
 public class PalindromNumber {
 
     static boolean isPalindrom(int number) {
