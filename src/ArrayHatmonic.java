@@ -8,6 +8,8 @@ public class ArrayHatmonic {
             sum += (1.0/arr[i]);
         }
 
+
+
         //double average = sum / arr.length;
         double average =  arr.length / sum;
         System.out.println(average);
